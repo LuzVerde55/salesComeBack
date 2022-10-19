@@ -1,0 +1,10 @@
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\bin\Release\netcoreapp3.1\SalesCome.DAC.deps.json
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\bin\Release\netcoreapp3.1\SalesCome.DAC.dll
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\bin\Release\netcoreapp3.1\SalesCome.DAC.pdb
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\obj\Release\netcoreapp3.1\SalesCome.DAC.csproj.AssemblyReference.cache
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\obj\Release\netcoreapp3.1\SalesCome.DAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\obj\Release\netcoreapp3.1\SalesCome.DAC.AssemblyInfoInputs.cache
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\obj\Release\netcoreapp3.1\SalesCome.DAC.AssemblyInfo.cs
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\obj\Release\netcoreapp3.1\SalesCome.DAC.csproj.CoreCompileInputs.cache
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\obj\Release\netcoreapp3.1\SalesCome.DAC.dll
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome\obj\Release\netcoreapp3.1\SalesCome.DAC.pdb

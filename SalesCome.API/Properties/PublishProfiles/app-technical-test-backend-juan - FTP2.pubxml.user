@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACRhQp6G1rk2VOpbcNIQLagAAAAACAAAAAAAQZgAAAAEAACAAAACqNxVoR53ghtsmL1XH/kXAGf9m+CKhIIATSGzlTffBVQAAAAAOgAAAAAIAACAAAABTJh7vXPZMsy7RaQLKdcQHGxKG6h10jTYEdoicV0Pc1YAAAABps81RBM8R5QodM1ipxWYA/cgEgSmpxeSwjkb6wpe7xy3c+vxJ/uC5Ci4OC14LeUzU558sMzNFOVf7RxwKvBJdR7PJzQY1mDwyyjqWWZ86UDzLsqzeyjWlPo/VdsIaNI56nDzPA9Hhg+xr/9f7YHfGPrH1mrVfJwQ+ZTuFc51V4EAAAAA5iVrehobokQIQ+u1GhPVuPvkJA7oJ5gIoL9luCp69w1UqoHr3YDnoIQ/uS1kKo6+q80JfyJi1PHYSxzdyYzuB</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-bn1-183.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2022-10-16T21:46:44.3517719Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/15/2022 20:00:24</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/15/2022 20:03:26</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>09/30/2022 04:45:38</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>09/30/2022 05:07:30</publishTime>
+    </File>
+    <File Include="MediatR.Contracts.dll">
+      <publishTime>01/10/2022 09:06:26</publishTime>
+    </File>
+    <File Include="MediatR.dll">
+      <publishTime>09/30/2022 04:00:36</publishTime>
+    </File>
+    <File Include="MediatR.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>09/30/2022 04:42:50</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll">
+      <publishTime>02/08/2021 22:14:54</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Versioning.dll">
+      <publishTime>02/08/2021 22:14:12</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>10/24/2020 01:39:40</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>10/24/2020 01:40:02</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Abstractions.dll">
+      <publishTime>10/19/2020 13:48:26</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Memory.dll">
+      <publishTime>10/19/2020 13:48:36</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>10/22/2021 18:47:50</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.dll">
+      <publishTime>02/23/2022 19:12:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>10/22/2021 18:48:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>09/26/2022 12:42:20</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>10/19/2020 13:48:04</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.dll">
+      <publishTime>10/19/2020 13:53:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>10/22/2021 18:50:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/22/2021 18:50:40</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>09/27/2022 18:50:14</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 06:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>09/27/2022 18:50:18</publishTime>
+    </File>
+    <File Include="SalesCome.API.deps.json">
+      <publishTime>10/16/2022 16:44:36</publishTime>
+    </File>
+    <File Include="SalesCome.API.dll">
+      <publishTime>10/16/2022 16:44:36</publishTime>
+    </File>
+    <File Include="SalesCome.API.exe">
+      <publishTime>10/16/2022 16:44:36</publishTime>
+    </File>
+    <File Include="SalesCome.API.pdb">
+      <publishTime>10/16/2022 16:44:36</publishTime>
+    </File>
+    <File Include="SalesCome.API.runtimeconfig.json">
+      <publishTime>10/16/2022 14:41:53</publishTime>
+    </File>
+    <File Include="SalesCome.Application.dll">
+      <publishTime>10/16/2022 14:41:52</publishTime>
+    </File>
+    <File Include="SalesCome.Application.pdb">
+      <publishTime>10/16/2022 14:41:52</publishTime>
+    </File>
+    <File Include="SalesCome.DAC.dll">
+      <publishTime>10/16/2022 14:41:51</publishTime>
+    </File>
+    <File Include="SalesCome.DAC.pdb">
+      <publishTime>10/16/2022 14:41:51</publishTime>
+    </File>
+    <File Include="SalesCome.Infrastructure.dll">
+      <publishTime>10/16/2022 14:41:52</publishTime>
+    </File>
+    <File Include="SalesCome.Infrastructure.pdb">
+      <publishTime>10/16/2022 14:41:52</publishTime>
+    </File>
+    <File Include="swagger/v1/swagger.json">
+      <publishTime>10/16/2022 15:14:34</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Annotations.dll">
+      <publishTime>07/19/2022 10:21:46</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 10:21:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 10:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 10:21:46</publishTime>
+    </File>
+    <File Include="System.Collections.Immutable.dll">
+      <publishTime>10/19/2020 13:37:40</publishTime>
+    </File>
+    <File Include="System.ComponentModel.Annotations.dll">
+      <publishTime>10/19/2020 13:37:54</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>09/27/2022 18:40:02</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>10/19/2020 13:38:16</publishTime>
+    </File>
+    <File Include="System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 18:40:56</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/16/2022 16:44:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

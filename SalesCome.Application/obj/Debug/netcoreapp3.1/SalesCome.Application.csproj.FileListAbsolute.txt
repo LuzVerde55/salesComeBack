@@ -1,0 +1,15 @@
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\bin\Debug\netcoreapp3.1\SalesCome.Application.deps.json
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\bin\Debug\netcoreapp3.1\SalesCome.Application.dll
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\bin\Debug\netcoreapp3.1\SalesCome.Application.pdb
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.csproj.AssemblyReference.cache
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.AssemblyInfoInputs.cache
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.AssemblyInfo.cs
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.csproj.CoreCompileInputs.cache
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.dll
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.pdb
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\bin\Debug\netcoreapp3.1\SalesCome.DAC.dll
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\bin\Debug\netcoreapp3.1\SalesCome.Infrastructure.dll
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\bin\Debug\netcoreapp3.1\SalesCome.Infrastructure.pdb
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\bin\Debug\netcoreapp3.1\SalesCome.DAC.pdb
+C:\project\app-technical-test-backend-juan\SalesCome.DAC\SalesCome.Application\obj\Debug\netcoreapp3.1\SalesCome.Application.csproj.CopyComplete
